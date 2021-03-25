@@ -6,3 +6,9 @@ hello/.vs/hello/v16/Browse.VC.db-wal
 hello/.vs/hello/v16/Browse.VC.opendb
 hello/.vs/hello/v16/Browse.VC.db
 *.db
+*.db
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.tlog
