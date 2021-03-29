@@ -12,3 +12,12 @@ hello/.vs/hello/v16/Browse.VC.db
 *.ilk
 *.obj
 *.tlog
+hello/hello/Debug/vc142.pdb
+hello/hello/Debug/vc142.idb
+hello/hello/Debug/main.obj
+hello/hello/Debug/hello.tlog/CL.write.1.tlog
+hello/Debug/hello.pdb
+hello/Debug/hello.ilk
+hello/Debug/hello.exe
+hello/.vs/hello/v16/ipch/AutoPCH/23a6df6d2b674531/INTEGER_LITERALS.ipch
+hello/.vs/hello/v16/Browse.VC.db
