@@ -23,5 +23,10 @@ int main() {
 	printf("%d\n", b);
 	unsigned long long d = 0xFFFFFFFFFFFF;
 	printf("%lld\n", d);
+
+	unsigned  int _d = 3669732608;
+	printf("Yabba %x!\n", _d);
+
 	return 0;
 }
+
